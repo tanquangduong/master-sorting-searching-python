@@ -9,4 +9,12 @@
 - Create Python environment\
 `pip install -r .\path_to_requirements\requirements.txt`
 
+## ✅ Sorting algorithm
+- Swapping variables
+- Bubble sort
+- Insertion sort
+- Merge sort
+- Shell sort
+- Selection sort
+
 
